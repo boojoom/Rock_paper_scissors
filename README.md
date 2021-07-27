@@ -3,6 +3,6 @@
 ## General info
 Simple rock, paper, scissors game.
 
-##Technologies:
+## Technologies:
 * Python version: 3.9.2
 
